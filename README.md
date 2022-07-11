@@ -42,7 +42,6 @@
 - 🛢 &nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat-square&logo=postgresql)
   ![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat-square&logo=Sequelize)
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=Insomnia-ide&logoColor=2C2255)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman-ide&logoColor=2C2255)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
