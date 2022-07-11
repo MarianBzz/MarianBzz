@@ -55,9 +55,20 @@
 
 <h3> Connect with me ☕️</h3>
 
-<a href="www.linkedin.com/in/mariano-bozzoletti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mariano Bozzoletti Linkedin Profile" height="30" width="40" />linkedin</a>
 
-<a href="mailto:mbozzoletti@hotmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Mail to Mariano" height="30" width="40" />mbozzoletti@hotmail.com</a>
-</p>
-    
+<p aling="center">
+<a href="www.linkedin.com/in/mariano-bozzoletti">
+  <img align="center" alt="Mariano Bozzoletti Linkedin Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/MarianBzz">
+  <img align="center" alt="Mariano Bozzoletti Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/marianobozzoletti">
+  <img align="center" alt="Mariano Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  </p>
+
+ <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />  mbozzoletti@hotmail.com
+
+
+
 
