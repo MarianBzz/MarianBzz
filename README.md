@@ -19,7 +19,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing new projects.
 - 🎓 &nbsp; Studying Developer Web Full Stack of Henry Academy and I'm Accountant
 - 💼 &nbsp; I'm currently looking for work
-- 🌱 &nbsp; Learning more about SCRUM, Data Base and different frameworks.
+- 🌱 &nbsp; Learning more about SCRUM, React Native and different frameworks.
 - ✍️ &nbsp; I'm currently working on a group project.
 
 
