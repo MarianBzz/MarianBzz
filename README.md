@@ -57,7 +57,7 @@
 
 
 <p aling="center">
-<a href="www.linkedin.com/in/mariano-bozzoletti">
+<a href="https://www.linkedin.com/in/mariano-bozzoletti/">
   <img align="center" alt="Mariano Bozzoletti Linkedin Profile" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/MarianBzz">
