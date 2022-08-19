@@ -17,7 +17,7 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Argentina.
   
 - 🤔 &nbsp; Exploring new technologies and developing new projects.
-- 🎓 &nbsp; Studying Developer Web Full Stack of Henry Academy and I'm Accountant
+- 🎓 &nbsp; Graduated as Full Stack Developer of Henry Academy.
 - 💼 &nbsp; I'm currently looking for work
 - 🌱 &nbsp; Learning more about SCRUM, React Native, Typescript and different frameworks.
 - ✍️ &nbsp; I'm currently working on a group project.
