@@ -22,7 +22,7 @@
 - 🌱 &nbsp; Learning more about SCRUM, React Native, Typescript and different frameworks.
 - ✍️ &nbsp; I'm currently working on a group project.
 
-
+Portfolio. https://portfoliomarianobozzoletti.vercel.app/contact
 ---
 
 
