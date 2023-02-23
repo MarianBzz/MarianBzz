@@ -18,9 +18,8 @@
   
 - 🤔 &nbsp; Exploring new technologies and developing new projects.
 - 🎓 &nbsp; Graduated as Full Stack Developer of Henry Academy.
-- 💼 &nbsp; I'm currently looking for work
+- 💼 &nbsp; I'm currently working as a FrontEnd Developer in Bluerabbit.
 - 🌱 &nbsp; Learning more about SCRUM, React Native, Typescript and different frameworks.
-- ✍️ &nbsp; I'm currently working on a group project.
 
 Portfolio. https://portfoliomarianobozzoletti.vercel.app
 ---
