@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="530px" font-size="16px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key {fill: #ffa657;}
+.value {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.cc {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
+<text x="15" y="30" fill="#c9d1d9" class="ascii" font-size="13px">
+<tspan x="15" y="37" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠛⠀⠛⣿⠛⣤⠛⣤⠀⠀⠀⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="53" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⠛⠀⠛⠀⠀⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⣤⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="69" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="85" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠀⠀⠛⠀⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="101" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠛⠀⠛⠀⠀⠀⠛⠀⠀⠀⠛⠀⠀⠀⠛⠀⠀⠀⠛⠀⠀⠀⠛⠀⠀⠀⠛⠀⠛⠀⠛⠀⠛⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="117" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠀⠀⠛⠀⠛⠀⠛⠀⠀⠀⠛⣤⠀⣤⠀⣤⠀⠀⠀⠀⠀⠀⠛⠀⠀⠀⠛⠀⠀⠀⠛⠀⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="133" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠀⠀⠛⠀⠛⠀⠛⣤⠛⠀⠛⠀⠛⣤⣿⣿⠛⣿⣿⣿⠛⣤⠛⣤⠀⠀⠛⠀⠀⠀⠛⠀⠀⠀⠛⠀⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="149" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠛⠀⠀⣤⠛⠀⠛⠀⠛⣤⠛⠀⠛⣤⠛⣤⠛⣿⠛⣿⠛⣿⠛⣤⠛⣿⠛⣤⠛⣤⠛⠀⠛⣤⠛⠀⠛⠀⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="165" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⣤⣿⣤⠛⣤⠛⣤⠛⣤⠛⣤⠛⣤⠛⣿⠛⣿⠛⣿⠛⣿⣿⣿⠛⣿⠛⣿⠛⣤⠛⣿⠛⣿⠛⣿⠛⣤⠛⠀⠀⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="181" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⣿⠛⣤⠛⣤⠛⣤⠛⣿⠛⣿⣿⣿⠛⣿⣿⣿⠛⣿⣿⣿⠛⣿⣿⣿⠛⣿⣿⣿⣿⣿⣿⣿⠛⣤⠛⣿⠛⣤⠛⣤⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="197" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⠛⣤⠛⣿⠛⣿⠛⣿⠛⣿⣿⣿⠛⣿⣿⣿⠛⣿⣿⣿⠛⣿⠛⠛⠛⠛⠛⠛⠛⠛⠛⣿⠛⣿⣿⣿⠛⠀⠛⣤⠀⣤⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="213" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠛⣤⣿⣿⠛⣿⠛⣿⠛⣿⠛⣿⠛⣿⠛⣿⠛⣤⠛⣤⠛⠀⠀⠀⠀⠀⠛⠛⠛⠀⠛⠀⠛⠀⠛⣿⠛⣿⣿⣤⠛⣿⠛⣿⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="229" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠛⣿⠛⠀⠛⣤⠀⣤⠀⠀⠀⠀⠛⠀⠛⣤⣿⣿⠛⠀⠛⠀⠀⣤⣿⣤⠀⠀⣿⣤⠀⣤⠛⣤⠛⣿⣿⣿⠛⣿⣿⣤⠛⣿⠛⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="245" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠛⣤⠛⣤⠛⠀⠀⣤⠀⠀⠀⣤⠛⠀⠛⣿⠛⣿⣿⣤⠛⠀⠛⣤⠛⣤⠛⣤⠛⣤⠛⣤⠛⣿⣿⣿⠛⣿⠛⣿⠛⣿⠛⣤⠛⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="261" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠛⣿⠛⣤⠛⣤⠛⠀⠛⣿⠛⣤⠛⣿⠛⣤⠛⣿⣿⣿⠛⣿⠛⣿⣿⣿⠛⣤⣿⣿⠛⣿⣿⣿⠛⣿⣿⣿⠛⣿⣿⣿⠛⣿⠛⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="277" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣤⠛⣿⠛⣤⠛⣤⠛⣤⠛⣤⠛⣤⠛⣿⣿⣿⠛⣤⠛⣿⠛⣿⣿⣿⠛⣿⣿⣿⠛⣿⣿⣿⠛⣿⠛⣿⠛⣤⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="293" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣤⠛⣿⠛⣿⠛⣿⠛⣿⠛⣿⠛⣤⣿⣿⣿⣿⣿⣿⣿⣿⠛⣿⠛⣿⠛⣿⠛⣿⣿⣿⠛⣤⠛⣿⠛⣤⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="309" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠛⣤⠛⣿⠛⣿⠛⣿⠛⣤⠛⠛⠛⣿⠛⣿⠛⠀⠛⠀⠛⣤⣿⣤⠛⣤⠛⣿⠛⣿⠛⣤⠛⣤⠛⣤⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="325" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣿⠛⣿⠛⣿⠛⣿⣿⣿⠛⣤⠛⣤⠛⣤⠛⣤⠛⣤⣿⣿⠛⣿⠛⣿⠛⣿⣿⣿⠛⣤⠛⣿⠛⣿⣿⣤⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="341" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣿⠛⣿⠛⣿⠛⣿⠛⣤⠛⣤⠛⣿⠛⣿⠛⠛⠛⠛⠛⠀⠛⣤⠛⣿⠛⣿⠛⣿⠛⣤⠛⣤⠛⣿⠛⣤⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="357" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣤⠛⣿⠛⣤⠛⣤⠛⣤⠛⣤⠛⣤⣿⣤⠛⣤⠛⣿⠛⣿⣿⣿⠛⣤⠛⣤⠛⣤⠛⣤⠛⣿⣿⣿⠛⠀⠛⣤⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="373" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣿⠛⣤⠛⣿⠛⣿⠛⣿⠛⣤⠛⠀⠛⠀⠛⣤⠛⣤⠛⣤⠛⣤⠛⣿⠛⠀⠛⠀⠛⣤⠛⣤⠛⣿⠛⠀⠛⠀⠛⣤⠀⠀⠀⠀</tspan>
+<tspan x="15" y="389" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠀⠀⠛⣤⠛⣤⠛⣿⠛⣤⠛⣤⠛⣤⣿⣿⠛⣿⣿⣿⣿⣿⣿⣿⠛⠛⠛⣤⠛⠀⠛⣤⠛⣤⠛⣿⠛⠀⠛⠀⠛⠀⠛⠀⠀⠀</tspan>
+<tspan x="15" y="405" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠛⠀⠀⠀⠛⠀⠀⠀⣿⣤⠛⠀⠛⣿⠛⣿⣿⣿⠛⣿⣿⣿⠛⣿⣿⣿⠛⠀⠛⣤⠛⠀⠛⣤⠛⣤⠛⣤⠛⣿⠛⠀⠛⠀⠛⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="421" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠀⠀⠛⣤⠛⠀⠛⠀⣿⣿⠛⣿⠛⣤⠛⣿⠛⠛⠛⣿⠛⠛⠛⠀⠛⠀⠛⣤⠛⣤⠛⣤⠛⣤⠛⣤⠛⣤⠛⣿⠛⠀⠛⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="437" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠀⠀⠛⠀⠀⠀⣿⣿⠛⣿⠛⣿⠛⣤⠛⣤⠛⣤⠛⣤⠀⠀⠛⣤⠛⠀⠛⣤⠛⣤⠛⣤⠛⣤⠛⣿⠛⣿⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="453" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠛⠀⠛⠀⠛⣤⠛⣿⠛⣿⣿⣤⠛⣤⠛⣿⠛⣿⠛⣤⠛⠀⠛⣤⠛⣤⠛⣤⠛⣤⠛⣿⠛⣤⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="469" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠀⠀⣿⣿⠛⣤⠛⣿⠛⣿⣿⣤⠛⣤⠛⣤⠛⠀⠛⣤⠛⠀⠛⣤⠛⣤⠛⣿⠛⣤⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="485" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⣿⣿⣿⠛⣿⠛⣿⠛⣿⠛⣿⠛⣤⠛⣿⠛⣤⠛⣤⠛⣤⠛⣿⠛⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+<tspan x="15" y="501" textLength="360" lengthAdjust="spacingAndGlyphs">⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠛⣿⠛⣤⠛⣤⠛⣤⠛⣤⠛⠀⠛⣤⠛⣤⠛⠀⠛⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀</tspan>
+</text>
+<text x="390" y="30" fill="#c9d1d9">
+<tspan x="390" y="30">mariano@bozzoletti</tspan> -——————————————————————————————————————-—-
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">macOS, iOS, Linux</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ......................................... </tspan><tspan class="value" id="age_data">+5 years</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">Baletti (Co-founder &amp; CTO)</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Full Stack AI Engineer</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ......................... </tspan><tspan class="value">VSCode, Cursor, Claude Code</tspan>
+<tspan x="390" y="150" class="cc">. </tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">TypeScript, JavaScript, Python</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Spanish, English (C1)</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Frameworks</tspan>.<tspan class="key">Web</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">React, Next.js, Angular, Node.js</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Frameworks</tspan>.<tspan class="key">Mobile</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">React Native, Expo</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">AI</tspan>.<tspan class="key">Frameworks</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">LangChain, LangGraph, MCP</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">AI</tspan>.<tspan class="key">Skills</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">AI Agents, Agentic Workflows, RAG</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">PostgreSQL, Supabase, Drizzle, Prisma</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Cloud</tspan>:<tspan class="cc"> .............. </tspan><tspan class="value">Docker, Vercel, AWS S3, GitLab</tspan>
+<tspan x="390" y="350">- Contact</tspan> -———————————————————————————————————————————————-—-
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">mbozzoletti@hotmail.com</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Website</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">baletti.app</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Portfolio</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">portfoliomarianobozzoletti.vercel.app</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">mariano-bozzoletti</tspan>
+<tspan x="390" y="470">- Now</tspan> -———————————————————————————————————————————————————-—-
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Building</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">baletti.app, AI listings for booksellers</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Córdoba, Argentina</tspan>
+</text>
+</svg>
